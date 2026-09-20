@@ -1,5 +1,5 @@
-Harbor Registry Lab Assessment
-Project Overview
+#Harbor Registry Lab Assessment
+#Project Overview
 
 This project demonstrates the installation, configuration, and usage of Harbor Container Registry on Ubuntu using Docker Compose.
 
